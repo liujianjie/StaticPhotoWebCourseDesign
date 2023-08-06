@@ -1,5 +1,5 @@
 # StaticPhotoWebCourseDesign
-静态Web写真网站初级课程设计：js、html、css
+写真网站，Web初级课程设计：js、html、css（静态）
 
 整活向，带点黄颜色
 
